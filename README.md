@@ -34,6 +34,12 @@ In the scratch we use a Figma file with all the images of the webpage to replica
 
 ![Screenshot](images/60df485eb772ecbad54a.jpg)
 
+## Interactions note:
+- the web page must switch to the mobile version when the screen width is 480px or less<br/>
+- links hover/active: #FF6565<br/>
+- button hover/active: opacity: 0.9<br/>
+- max width of the content: 1000px centered in the page
+
 
 ### Author
  - [Youssef Belhadj](https://github.com/usfbelhadj)
