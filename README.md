@@ -16,7 +16,7 @@ Project to implement from scratch a webpage only using HTML/CSS.
 
 In the scratch we use a Figma file with all the images of the webpage to replicate.
 [Link to the Figma file](https://intranet.hbtn.io/rltoken/2ED3P1a2wnbQqRLi8aXJKw)
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210119%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210119T183731Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=dce5030fe087603d755020a723143da67a2c16d7dc6aeedb0d6b184f3d709b5f" alt="" style="">
+![Screenshot](images/559ad8d43fb61e310e2b.png)
 
 ## Files
 |              File                |               Description                  |
@@ -32,7 +32,7 @@ In the scratch we use a Figma file with all the images of the webpage to replica
 
 ## Result
 
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210119%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210119T183731Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=4ec331cc5576dfc9f57fac5a278cd21e3bc2a014f882f47d3c901086d943d055" alt="" style="">
+![Screenshot](images/60df485eb772ecbad54a.jpg)
 
 
 ### Author
