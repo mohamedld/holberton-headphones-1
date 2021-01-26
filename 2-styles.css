@@ -209,6 +209,40 @@
     font-size: 2rem;
 }
 
+.second-paragraph {
+    color:var(--text-color);
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-family: 'SourceRegular';
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.column-pen {
+    display: inline-block;
+    padding: 7rem;
+}
+
+.image-text {
+    position: relative;
+    top: 15rem;
+}
+
+.percent {
+    font-family: 'SourceBold';
+    font-size: 4.5rem;
+    margin-bottom: 2.5rem;
+    color:var(--text-color);
+}
+
+.paragraph-pan {
+    font-size: 1.5rem;
+    color:var(--text-color);
+}
+
+
 
   
   @media only screen and (max-width:880px) {
