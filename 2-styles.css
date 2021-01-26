@@ -154,7 +154,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    font-family: 'SourceRegular';
+    font-family: var(--font-family);
     line-height: 1.6;
     font-size: 16px;
 }
@@ -215,7 +215,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    font-family: 'SourceRegular';
+    font-family: var(--font-family);
     line-height: 1.6;
     font-size: 16px;
 }
@@ -231,7 +231,7 @@
 }
 
 .percent {
-    font-family: 'SourceBold';
+    font-family: var(--font-family);
     font-size: 4.5rem;
     margin-bottom: 2.5rem;
     color:var(--text-color);
