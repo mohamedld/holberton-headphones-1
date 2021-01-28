@@ -28,7 +28,7 @@
     }
   
   .container {
-      background-image: url(/images/headphones_hero_1.jpg);
+      background-image: url(images/headphones_hero_1.jpg);
       background-position: center;
       background-size: cover;
       min-height: 100rem;
@@ -193,7 +193,7 @@
 
 
 .section-two {
-    background-image: url(/images/headphones_hero_2.jpg);
+    background-image: url(images/headphones_hero_2.jpg);
     background-size: 100% 100%;
     background-position: center;
     min-height: 65rem;

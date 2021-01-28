@@ -29,7 +29,7 @@
 
 
 .container {
-	background-image: url(/images/headphones_hero_1.jpg);
+	background-image: url(images/headphones_hero_1.jpg);
 	background-position: center;
 	background-size: cover;
 	min-height: 100rem;
